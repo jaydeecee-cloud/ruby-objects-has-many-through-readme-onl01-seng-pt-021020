@@ -16,6 +16,4 @@ class Customer
   def new_meal
   end
 
-  def initialize
-
 end
