@@ -1,3 +1,4 @@
 class Waiter
-  attr_accessor 
+  attr_accessor :name, :years
+  
 end
